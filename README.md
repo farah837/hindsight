@@ -16,6 +16,12 @@ market, or (during practice) to reveal which period you're in, and it shows whic
 
 Run it: `npm install && npm run dev` → http://localhost:3001
 
+**Why this is a real problem:** people are starting to ask AI what to invest in, AI's investment advice
+isn't reliable without human oversight, relying on AI is linked to weaker critical thinking, and investors' own
+mistimed buying and selling cost them about 12% of their funds' returns over the last decade. AI that answers
+without guardrails also harms learning, while guardrailed AI largely avoids that harm. The research, with links,
+is in **[EVIDENCE.md](EVIDENCE.md)**.
+
 ## How it answers the three challenge dimensions
 
 | Dimension | How Hindsight answers it |
