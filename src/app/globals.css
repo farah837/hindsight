@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Light-only design: the UI hard-codes light surfaces. */
+:root {
+  color-scheme: light;
+  --background: #fafaf9;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}

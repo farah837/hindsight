@@ -1,0 +1,1952 @@
+{
+ "gfc": [
+  {
+   "date": "2005-07",
+   "index": 100.0,
+   "raw": 1222.24,
+   "cape": 26.3,
+   "unemployment": 5.0,
+   "fedFunds": 3.26,
+   "yieldCurve": 0.31
+  },
+  {
+   "date": "2005-08",
+   "index": 100.17,
+   "raw": 1224.27,
+   "cape": 26.1,
+   "unemployment": 5.0,
+   "fedFunds": 3.5,
+   "yieldCurve": 0.22
+  },
+  {
+   "date": "2005-09",
+   "index": 100.3,
+   "raw": 1225.92,
+   "cape": 25.7,
+   "unemployment": 4.9,
+   "fedFunds": 3.62,
+   "yieldCurve": 0.25
+  },
+  {
+   "date": "2005-10",
+   "index": 97.52,
+   "raw": 1191.96,
+   "cape": 24.9,
+   "unemployment": 5.0,
+   "fedFunds": 3.78,
+   "yieldCurve": 0.19
+  },
+  {
+   "date": "2005-11",
+   "index": 101.24,
+   "raw": 1237.37,
+   "cape": 25.9,
+   "unemployment": 5.0,
+   "fedFunds": 4.0,
+   "yieldCurve": 0.12
+  },
+  {
+   "date": "2005-12",
+   "index": 103.26,
+   "raw": 1262.07,
+   "cape": 26.4,
+   "unemployment": 5.0,
+   "fedFunds": 4.16,
+   "yieldCurve": 0.06
+  },
+  {
+   "date": "2006-01",
+   "index": 104.62,
+   "raw": 1278.73,
+   "cape": 26.5,
+   "unemployment": 4.9,
+   "fedFunds": 4.29,
+   "yieldCurve": 0.02
+  },
+  {
+   "date": "2006-02",
+   "index": 104.45,
+   "raw": 1276.65,
+   "cape": 26.2,
+   "unemployment": 4.7,
+   "fedFunds": 4.49,
+   "yieldCurve": -0.1
+  },
+  {
+   "date": "2006-03",
+   "index": 105.85,
+   "raw": 1293.74,
+   "cape": 26.3,
+   "unemployment": 4.8,
+   "fedFunds": 4.59,
+   "yieldCurve": -0.01
+  },
+  {
+   "date": "2006-04",
+   "index": 106.54,
+   "raw": 1302.17,
+   "cape": 26.1,
+   "unemployment": 4.7,
+   "fedFunds": 4.79,
+   "yieldCurve": 0.1
+  },
+  {
+   "date": "2006-05",
+   "index": 105.54,
+   "raw": 1290.01,
+   "cape": 25.6,
+   "unemployment": 4.7,
+   "fedFunds": 4.94,
+   "yieldCurve": 0.14
+  },
+  {
+   "date": "2006-06",
+   "index": 102.53,
+   "raw": 1253.17,
+   "cape": 24.8,
+   "unemployment": 4.6,
+   "fedFunds": 4.99,
+   "yieldCurve": -0.02
+  },
+  {
+   "date": "2006-07",
+   "index": 103.11,
+   "raw": 1260.24,
+   "cape": 24.7,
+   "unemployment": 4.6,
+   "fedFunds": 5.24,
+   "yieldCurve": -0.03
+  },
+  {
+   "date": "2006-08",
+   "index": 105.31,
+   "raw": 1287.15,
+   "cape": 25.1,
+   "unemployment": 4.7,
+   "fedFunds": 5.25,
+   "yieldCurve": -0.03
+  },
+  {
+   "date": "2006-09",
+   "index": 107.81,
+   "raw": 1317.74,
+   "cape": 25.6,
+   "unemployment": 4.7,
+   "fedFunds": 5.25,
+   "yieldCurve": -0.05
+  },
+  {
+   "date": "2006-10",
+   "index": 111.55,
+   "raw": 1363.38,
+   "cape": 26.5,
+   "unemployment": 4.5,
+   "fedFunds": 5.25,
+   "yieldCurve": -0.07
+  },
+  {
+   "date": "2006-11",
+   "index": 113.61,
+   "raw": 1388.64,
+   "cape": 26.9,
+   "unemployment": 4.4,
+   "fedFunds": 5.25,
+   "yieldCurve": -0.15
+  },
+  {
+   "date": "2006-12",
+   "index": 115.89,
+   "raw": 1416.42,
+   "cape": 27.3,
+   "unemployment": 4.5,
+   "fedFunds": 5.24,
+   "yieldCurve": -0.11
+  },
+  {
+   "date": "2007-01",
+   "index": 116.52,
+   "raw": 1424.16,
+   "cape": 27.2,
+   "unemployment": 4.4,
+   "fedFunds": 5.25,
+   "yieldCurve": -0.12
+  },
+  {
+   "date": "2007-02",
+   "index": 118.21,
+   "raw": 1444.8,
+   "cape": 27.3,
+   "unemployment": 4.6,
+   "fedFunds": 5.26,
+   "yieldCurve": -0.13
+  },
+  {
+   "date": "2007-03",
+   "index": 115.11,
+   "raw": 1406.95,
+   "cape": 26.2,
+   "unemployment": 4.5,
+   "fedFunds": 5.26,
+   "yieldCurve": -0.01
+  },
+  {
+   "date": "2007-04",
+   "index": 119.75,
+   "raw": 1463.64,
+   "cape": 27.0,
+   "unemployment": 4.4,
+   "fedFunds": 5.25,
+   "yieldCurve": 0.03
+  },
+  {
+   "date": "2007-05",
+   "index": 123.64,
+   "raw": 1511.14,
+   "cape": 27.6,
+   "unemployment": 4.5,
+   "fedFunds": 5.25,
+   "yieldCurve": -0.02
+  },
+  {
+   "date": "2007-06",
+   "index": 123.89,
+   "raw": 1514.19,
+   "cape": 27.4,
+   "unemployment": 4.4,
+   "fedFunds": 5.25,
+   "yieldCurve": 0.12
+  },
+  {
+   "date": "2007-07",
+   "index": 124.42,
+   "raw": 1520.71,
+   "cape": 27.4,
+   "unemployment": 4.6,
+   "fedFunds": 5.26,
+   "yieldCurve": 0.19
+  },
+  {
+   "date": "2007-08",
+   "index": 119.01,
+   "raw": 1454.62,
+   "cape": 26.1,
+   "unemployment": 4.7,
+   "fedFunds": 5.02,
+   "yieldCurve": 0.36
+  },
+  {
+   "date": "2007-09",
+   "index": 122.49,
+   "raw": 1497.12,
+   "cape": 26.7,
+   "unemployment": 4.6,
+   "fedFunds": 4.94,
+   "yieldCurve": 0.51
+  },
+  {
+   "date": "2007-10",
+   "index": 125.97,
+   "raw": 1539.66,
+   "cape": 27.3,
+   "unemployment": 4.7,
+   "fedFunds": 4.76,
+   "yieldCurve": 0.56
+  },
+  {
+   "date": "2007-11",
+   "index": 119.73,
+   "raw": 1463.39,
+   "cape": 25.7,
+   "unemployment": 4.7,
+   "fedFunds": 4.49,
+   "yieldCurve": 0.81
+  },
+  {
+   "date": "2007-12",
+   "index": 121.03,
+   "raw": 1479.22,
+   "cape": 26.0,
+   "unemployment": 4.7,
+   "fedFunds": 4.24,
+   "yieldCurve": 0.98
+  },
+  {
+   "date": "2008-01",
+   "index": 112.81,
+   "raw": 1378.76,
+   "cape": 24.0,
+   "unemployment": 5.0,
+   "fedFunds": 3.94,
+   "yieldCurve": 1.27
+  },
+  {
+   "date": "2008-02",
+   "index": 110.85,
+   "raw": 1354.87,
+   "cape": 23.5,
+   "unemployment": 5.0,
+   "fedFunds": 2.98,
+   "yieldCurve": 1.76
+  },
+  {
+   "date": "2008-03",
+   "index": 107.75,
+   "raw": 1316.94,
+   "cape": 22.6,
+   "unemployment": 4.9,
+   "fedFunds": 2.61,
+   "yieldCurve": 1.89
+  },
+  {
+   "date": "2008-04",
+   "index": 112.13,
+   "raw": 1370.47,
+   "cape": 23.4,
+   "unemployment": 5.1,
+   "fedFunds": 2.28,
+   "yieldCurve": 1.63
+  },
+  {
+   "date": "2008-05",
+   "index": 114.81,
+   "raw": 1403.22,
+   "cape": 23.7,
+   "unemployment": 5.0,
+   "fedFunds": 1.98,
+   "yieldCurve": 1.43
+  },
+  {
+   "date": "2008-06",
+   "index": 109.74,
+   "raw": 1341.25,
+   "cape": 22.4,
+   "unemployment": 5.4,
+   "fedFunds": 2.0,
+   "yieldCurve": 1.33
+  },
+  {
+   "date": "2008-07",
+   "index": 102.87,
+   "raw": 1257.33,
+   "cape": 20.9,
+   "unemployment": 5.6,
+   "fedFunds": 2.01,
+   "yieldCurve": 1.43
+  },
+  {
+   "date": "2008-08",
+   "index": 104.85,
+   "raw": 1281.47,
+   "cape": 21.4,
+   "unemployment": 5.8,
+   "fedFunds": 2.0,
+   "yieldCurve": 1.47
+  },
+  {
+   "date": "2008-09",
+   "index": 99.57,
+   "raw": 1216.95,
+   "cape": 20.4,
+   "unemployment": 6.1,
+   "fedFunds": 1.81,
+   "yieldCurve": 1.61
+  },
+  {
+   "date": "2008-10",
+   "index": 79.26,
+   "raw": 968.8,
+   "cape": 16.4,
+   "unemployment": 6.1,
+   "fedFunds": 0.97,
+   "yieldCurve": 2.2
+  },
+  {
+   "date": "2008-11",
+   "index": 72.25,
+   "raw": 883.04,
+   "cape": 15.3,
+   "unemployment": 6.5,
+   "fedFunds": 0.39,
+   "yieldCurve": 2.31
+  },
+  {
+   "date": "2008-12",
+   "index": 71.8,
+   "raw": 877.56,
+   "cape": 15.4,
+   "unemployment": 6.8,
+   "fedFunds": 0.16,
+   "yieldCurve": 1.6
+  },
+  {
+   "date": "2009-01",
+   "index": 70.82,
+   "raw": 865.58,
+   "cape": 15.2,
+   "unemployment": 7.3,
+   "fedFunds": 0.15,
+   "yieldCurve": 1.71
+  },
+  {
+   "date": "2009-02",
+   "index": 65.88,
+   "raw": 805.23,
+   "cape": 14.1,
+   "unemployment": 7.8,
+   "fedFunds": 0.22,
+   "yieldCurve": 1.89
+  },
+  {
+   "date": "2009-03",
+   "index": 61.95,
+   "raw": 757.13,
+   "cape": 13.3,
+   "unemployment": 8.3,
+   "fedFunds": 0.18,
+   "yieldCurve": 1.89
+  },
+  {
+   "date": "2009-04",
+   "index": 69.39,
+   "raw": 848.15,
+   "cape": 15.0,
+   "unemployment": 8.7,
+   "fedFunds": 0.15,
+   "yieldCurve": 2.0
+  },
+  {
+   "date": "2009-05",
+   "index": 73.83,
+   "raw": 902.41,
+   "cape": 16.0,
+   "unemployment": 9.0,
+   "fedFunds": 0.18,
+   "yieldCurve": 2.36
+  },
+  {
+   "date": "2009-06",
+   "index": 75.77,
+   "raw": 926.12,
+   "cape": 16.4,
+   "unemployment": 9.4,
+   "fedFunds": 0.21,
+   "yieldCurve": 2.54
+  },
+  {
+   "date": "2009-07",
+   "index": 76.57,
+   "raw": 935.82,
+   "cape": 16.7,
+   "unemployment": 9.5,
+   "fedFunds": 0.16,
+   "yieldCurve": 2.54
+  },
+  {
+   "date": "2009-08",
+   "index": 82.61,
+   "raw": 1009.73,
+   "cape": 18.1,
+   "unemployment": 9.5,
+   "fedFunds": 0.16,
+   "yieldCurve": 2.47
+  },
+  {
+   "date": "2009-09",
+   "index": 85.46,
+   "raw": 1044.55,
+   "cape": 18.8,
+   "unemployment": 9.6,
+   "fedFunds": 0.15,
+   "yieldCurve": 2.45
+  },
+  {
+   "date": "2009-10",
+   "index": 87.35,
+   "raw": 1067.66,
+   "cape": 19.4,
+   "unemployment": 9.8,
+   "fedFunds": 0.12,
+   "yieldCurve": 2.44
+  },
+  {
+   "date": "2009-11",
+   "index": 89.02,
+   "raw": 1088.07,
+   "cape": 19.8,
+   "unemployment": 10.0,
+   "fedFunds": 0.12,
+   "yieldCurve": 2.6
+  },
+  {
+   "date": "2009-12",
+   "index": 90.85,
+   "raw": 1110.38,
+   "cape": 20.3,
+   "unemployment": 9.9,
+   "fedFunds": 0.12,
+   "yieldCurve": 2.72
+  },
+  {
+   "date": "2010-01",
+   "index": 91.93,
+   "raw": 1123.58,
+   "cape": 20.5,
+   "unemployment": 9.9,
+   "fedFunds": 0.11,
+   "yieldCurve": 2.8
+  },
+  {
+   "date": "2010-02",
+   "index": 89.11,
+   "raw": 1089.16,
+   "cape": 19.9,
+   "unemployment": 9.8,
+   "fedFunds": 0.13,
+   "yieldCurve": 2.83
+  },
+  {
+   "date": "2010-03",
+   "index": 94.26,
+   "raw": 1152.05,
+   "cape": 21.0,
+   "unemployment": 9.8,
+   "fedFunds": 0.16,
+   "yieldCurve": 2.77
+  },
+  {
+   "date": "2010-04",
+   "index": 97.96,
+   "raw": 1197.32,
+   "cape": 21.8,
+   "unemployment": 9.9,
+   "fedFunds": 0.2,
+   "yieldCurve": 2.79
+  },
+  {
+   "date": "2010-05",
+   "index": 92.05,
+   "raw": 1125.06,
+   "cape": 20.5,
+   "unemployment": 9.9,
+   "fedFunds": 0.2,
+   "yieldCurve": 2.59
+  },
+  {
+   "date": "2010-06",
+   "index": 88.64,
+   "raw": 1083.36,
+   "cape": 19.7,
+   "unemployment": 9.6,
+   "fedFunds": 0.18,
+   "yieldCurve": 2.48
+  },
+  {
+   "date": "2010-07",
+   "index": 88.35,
+   "raw": 1079.8,
+   "cape": 19.7,
+   "unemployment": 9.4,
+   "fedFunds": 0.18,
+   "yieldCurve": 2.39
+  },
+  {
+   "date": "2010-08",
+   "index": 88.96,
+   "raw": 1087.28,
+   "cape": 19.8,
+   "unemployment": 9.4,
+   "fedFunds": 0.19,
+   "yieldCurve": 2.18
+  },
+  {
+   "date": "2010-09",
+   "index": 91.81,
+   "raw": 1122.08,
+   "cape": 20.4,
+   "unemployment": 9.5,
+   "fedFunds": 0.19,
+   "yieldCurve": 2.17
+  },
+  {
+   "date": "2010-10",
+   "index": 95.86,
+   "raw": 1171.58,
+   "cape": 21.2,
+   "unemployment": 9.5,
+   "fedFunds": 0.19,
+   "yieldCurve": 2.16
+  },
+  {
+   "date": "2010-11",
+   "index": 98.09,
+   "raw": 1198.89,
+   "cape": 21.7,
+   "unemployment": 9.4,
+   "fedFunds": 0.19,
+   "yieldCurve": 2.31
+  },
+  {
+   "date": "2010-12",
+   "index": 101.58,
+   "raw": 1241.53,
+   "cape": 22.4,
+   "unemployment": 9.8,
+   "fedFunds": 0.18,
+   "yieldCurve": 2.67
+  },
+  {
+   "date": "2011-01",
+   "index": 104.94,
+   "raw": 1282.62,
+   "cape": 23.0,
+   "unemployment": 9.3,
+   "fedFunds": 0.17,
+   "yieldCurve": 2.78
+  },
+  {
+   "date": "2011-02",
+   "index": 108.09,
+   "raw": 1321.12,
+   "cape": 23.5,
+   "unemployment": 9.1,
+   "fedFunds": 0.16,
+   "yieldCurve": 2.8
+  },
+  {
+   "date": "2011-03",
+   "index": 106.73,
+   "raw": 1304.49,
+   "cape": 22.9,
+   "unemployment": 9.0,
+   "fedFunds": 0.14,
+   "yieldCurve": 2.72
+  },
+  {
+   "date": "2011-04",
+   "index": 108.94,
+   "raw": 1331.51,
+   "cape": 23.1,
+   "unemployment": 9.0,
+   "fedFunds": 0.1,
+   "yieldCurve": 2.72
+  },
+  {
+   "date": "2011-05",
+   "index": 109.5,
+   "raw": 1338.31,
+   "cape": 23.1,
+   "unemployment": 9.1,
+   "fedFunds": 0.09,
+   "yieldCurve": 2.61
+  },
+  {
+   "date": "2011-06",
+   "index": 105.32,
+   "raw": 1287.29,
+   "cape": 22.1,
+   "unemployment": 9.0,
+   "fedFunds": 0.09,
+   "yieldCurve": 2.59
+  }
+ ],
+ "dotcom": [
+  {
+   "date": "1997-01",
+   "index": 100.0,
+   "raw": 1379.85,
+   "cape": 28.3,
+   "unemployment": 5.4,
+   "fedFunds": 5.25,
+   "yieldCurve": 0.57
+  },
+  {
+   "date": "1997-02",
+   "index": 94.87,
+   "raw": 1309.0,
+   "cape": 29.3,
+   "unemployment": 5.3,
+   "fedFunds": 5.19,
+   "yieldCurve": 0.52
+  },
+  {
+   "date": "1997-03",
+   "index": 88.54,
+   "raw": 1221.7,
+   "cape": 28.8,
+   "unemployment": 5.2,
+   "fedFunds": 5.39,
+   "yieldCurve": 0.47
+  },
+  {
+   "date": "1997-04",
+   "index": 91.37,
+   "raw": 1260.76,
+   "cape": 27.6,
+   "unemployment": 5.2,
+   "fedFunds": 5.51,
+   "yieldCurve": 0.44
+  },
+  {
+   "date": "1997-05",
+   "index": 101.48,
+   "raw": 1400.32,
+   "cape": 29.9,
+   "unemployment": 5.1,
+   "fedFunds": 5.5,
+   "yieldCurve": 0.43
+  },
+  {
+   "date": "1997-06",
+   "index": 104.51,
+   "raw": 1442.07,
+   "cape": 31.3,
+   "unemployment": 4.9,
+   "fedFunds": 5.56,
+   "yieldCurve": 0.4
+  },
+  {
+   "date": "1997-07",
+   "index": 115.51,
+   "raw": 1593.81,
+   "cape": 32.8,
+   "unemployment": 5.0,
+   "fedFunds": 5.52,
+   "yieldCurve": 0.33
+  },
+  {
+   "date": "1997-08",
+   "index": 115.04,
+   "raw": 1587.32,
+   "cape": 32.6,
+   "unemployment": 4.9,
+   "fedFunds": 5.54,
+   "yieldCurve": 0.36
+  },
+  {
+   "date": "1997-09",
+   "index": 122.16,
+   "raw": 1685.69,
+   "cape": 32.7,
+   "unemployment": 4.8,
+   "fedFunds": 5.54,
+   "yieldCurve": 0.33
+  },
+  {
+   "date": "1997-10",
+   "index": 115.49,
+   "raw": 1593.61,
+   "cape": 32.9,
+   "unemployment": 4.9,
+   "fedFunds": 5.5,
+   "yieldCurve": 0.26
+  },
+  {
+   "date": "1997-11",
+   "index": 115.99,
+   "raw": 1600.55,
+   "cape": 32.3,
+   "unemployment": 4.7,
+   "fedFunds": 5.52,
+   "yieldCurve": 0.16
+  },
+  {
+   "date": "1997-12",
+   "index": 113.81,
+   "raw": 1570.35,
+   "cape": 33.0,
+   "unemployment": 4.6,
+   "fedFunds": 5.5,
+   "yieldCurve": 0.09
+  },
+  {
+   "date": "1998-01",
+   "index": 117.36,
+   "raw": 1619.36,
+   "cape": 32.9,
+   "unemployment": 4.7,
+   "fedFunds": 5.56,
+   "yieldCurve": 0.19
+  },
+  {
+   "date": "1998-02",
+   "index": 128.31,
+   "raw": 1770.51,
+   "cape": 34.7,
+   "unemployment": 4.6,
+   "fedFunds": 5.51,
+   "yieldCurve": 0.16
+  },
+  {
+   "date": "1998-03",
+   "index": 133.03,
+   "raw": 1835.68,
+   "cape": 36.3,
+   "unemployment": 4.6,
+   "fedFunds": 5.49,
+   "yieldCurve": 0.09
+  },
+  {
+   "date": "1998-04",
+   "index": 135.41,
+   "raw": 1868.41,
+   "cape": 37.3,
+   "unemployment": 4.7,
+   "fedFunds": 5.45,
+   "yieldCurve": 0.07
+  },
+  {
+   "date": "1998-05",
+   "index": 128.92,
+   "raw": 1778.87,
+   "cape": 37.0,
+   "unemployment": 4.3,
+   "fedFunds": 5.49,
+   "yieldCurve": 0.06
+  },
+  {
+   "date": "1998-06",
+   "index": 137.31,
+   "raw": 1894.74,
+   "cape": 36.8,
+   "unemployment": 4.4,
+   "fedFunds": 5.56,
+   "yieldCurve": -0.02
+  },
+  {
+   "date": "1998-07",
+   "index": 135.7,
+   "raw": 1872.39,
+   "cape": 38.3,
+   "unemployment": 4.5,
+   "fedFunds": 5.54,
+   "yieldCurve": 0.0
+  },
+  {
+   "date": "1998-08",
+   "index": 108.65,
+   "raw": 1499.25,
+   "cape": 35.4,
+   "unemployment": 4.5,
+   "fedFunds": 5.55,
+   "yieldCurve": 0.07
+  },
+  {
+   "date": "1998-09",
+   "index": 122.76,
+   "raw": 1693.84,
+   "cape": 33.5,
+   "unemployment": 4.5,
+   "fedFunds": 5.51,
+   "yieldCurve": 0.14
+  },
+  {
+   "date": "1998-10",
+   "index": 128.38,
+   "raw": 1771.39,
+   "cape": 33.8,
+   "unemployment": 4.6,
+   "fedFunds": 5.07,
+   "yieldCurve": 0.44
+  },
+  {
+   "date": "1998-11",
+   "index": 141.29,
+   "raw": 1949.54,
+   "cape": 37.4,
+   "unemployment": 4.5,
+   "fedFunds": 4.83,
+   "yieldCurve": 0.29
+  },
+  {
+   "date": "1998-12",
+   "index": 158.91,
+   "raw": 2192.69,
+   "cape": 38.8,
+   "unemployment": 4.4,
+   "fedFunds": 4.68,
+   "yieldCurve": 0.14
+  },
+  {
+   "date": "1999-01",
+   "index": 181.61,
+   "raw": 2505.89,
+   "cape": 40.6,
+   "unemployment": 4.4,
+   "fedFunds": 4.63,
+   "yieldCurve": 0.11
+  },
+  {
+   "date": "1999-02",
+   "index": 165.82,
+   "raw": 2288.03,
+   "cape": 40.4,
+   "unemployment": 4.3,
+   "fedFunds": 4.76,
+   "yieldCurve": 0.12
+  },
+  {
+   "date": "1999-03",
+   "index": 178.38,
+   "raw": 2461.4,
+   "cape": 41.4,
+   "unemployment": 4.4,
+   "fedFunds": 4.81,
+   "yieldCurve": 0.18
+  },
+  {
+   "date": "1999-04",
+   "index": 184.28,
+   "raw": 2542.85,
+   "cape": 42.7,
+   "unemployment": 4.2,
+   "fedFunds": 4.74,
+   "yieldCurve": 0.21
+  },
+  {
+   "date": "1999-05",
+   "index": 179.04,
+   "raw": 2470.52,
+   "cape": 42.6,
+   "unemployment": 4.3,
+   "fedFunds": 4.74,
+   "yieldCurve": 0.29
+  },
+  {
+   "date": "1999-06",
+   "index": 194.67,
+   "raw": 2686.12,
+   "cape": 42.2,
+   "unemployment": 4.2,
+   "fedFunds": 4.76,
+   "yieldCurve": 0.28
+  },
+  {
+   "date": "1999-07",
+   "index": 191.22,
+   "raw": 2638.49,
+   "cape": 43.8,
+   "unemployment": 4.3,
+   "fedFunds": 4.99,
+   "yieldCurve": 0.24
+  },
+  {
+   "date": "1999-08",
+   "index": 198.53,
+   "raw": 2739.35,
+   "cape": 41.9,
+   "unemployment": 4.3,
+   "fedFunds": 5.07,
+   "yieldCurve": 0.26
+  },
+  {
+   "date": "1999-09",
+   "index": 199.02,
+   "raw": 2746.16,
+   "cape": 41.3,
+   "unemployment": 4.2,
+   "fedFunds": 5.22,
+   "yieldCurve": 0.25
+  },
+  {
+   "date": "1999-10",
+   "index": 214.98,
+   "raw": 2966.43,
+   "cape": 40.5,
+   "unemployment": 4.2,
+   "fedFunds": 5.2,
+   "yieldCurve": 0.25
+  },
+  {
+   "date": "1999-11",
+   "index": 241.78,
+   "raw": 3336.16,
+   "cape": 43.2,
+   "unemployment": 4.1,
+   "fedFunds": 5.42,
+   "yieldCurve": 0.17
+  },
+  {
+   "date": "1999-12",
+   "index": 294.91,
+   "raw": 4069.31,
+   "cape": 44.2,
+   "unemployment": 4.1,
+   "fedFunds": 5.3,
+   "yieldCurve": 0.17
+  },
+  {
+   "date": "2000-01",
+   "index": 285.56,
+   "raw": 3940.35,
+   "cape": 43.8,
+   "unemployment": 4.0,
+   "fedFunds": 5.45,
+   "yieldCurve": 0.22
+  },
+  {
+   "date": "2000-02",
+   "index": 340.38,
+   "raw": 4696.69,
+   "cape": 42.2,
+   "unemployment": 4.0,
+   "fedFunds": 5.73,
+   "yieldCurve": -0.09
+  },
+  {
+   "date": "2000-03",
+   "index": 331.4,
+   "raw": 4572.83,
+   "cape": 43.2,
+   "unemployment": 4.1,
+   "fedFunds": 5.85,
+   "yieldCurve": -0.27
+  },
+  {
+   "date": "2000-04",
+   "index": 279.79,
+   "raw": 3860.66,
+   "cape": 43.5,
+   "unemployment": 4.0,
+   "fedFunds": 6.02,
+   "yieldCurve": -0.41
+  },
+  {
+   "date": "2000-05",
+   "index": 246.47,
+   "raw": 3400.91,
+   "cape": 42.0,
+   "unemployment": 3.8,
+   "fedFunds": 6.27,
+   "yieldCurve": -0.37
+  },
+  {
+   "date": "2000-06",
+   "index": 287.43,
+   "raw": 3966.11,
+   "cape": 42.8,
+   "unemployment": 4.0,
+   "fedFunds": 6.53,
+   "yieldCurve": -0.38
+  },
+  {
+   "date": "2000-07",
+   "index": 273.0,
+   "raw": 3766.99,
+   "cape": 42.8,
+   "unemployment": 4.0,
+   "fedFunds": 6.54,
+   "yieldCurve": -0.29
+  },
+  {
+   "date": "2000-08",
+   "index": 304.84,
+   "raw": 4206.35,
+   "cape": 42.9,
+   "unemployment": 4.0,
+   "fedFunds": 6.5,
+   "yieldCurve": -0.4
+  },
+  {
+   "date": "2000-09",
+   "index": 266.18,
+   "raw": 3672.82,
+   "cape": 41.9,
+   "unemployment": 4.1,
+   "fedFunds": 6.52,
+   "yieldCurve": -0.28
+  },
+  {
+   "date": "2000-10",
+   "index": 244.2,
+   "raw": 3369.63,
+   "cape": 39.4,
+   "unemployment": 3.9,
+   "fedFunds": 6.51,
+   "yieldCurve": -0.17
+  },
+  {
+   "date": "2000-11",
+   "index": 188.28,
+   "raw": 2597.93,
+   "cape": 38.8,
+   "unemployment": 3.9,
+   "fedFunds": 6.51,
+   "yieldCurve": -0.16
+  },
+  {
+   "date": "2000-12",
+   "index": 179.04,
+   "raw": 2470.52,
+   "cape": 37.3,
+   "unemployment": 3.9,
+   "fedFunds": 6.4,
+   "yieldCurve": -0.11
+  },
+  {
+   "date": "2001-01",
+   "index": 200.94,
+   "raw": 2772.73,
+   "cape": 37.0,
+   "unemployment": 3.9,
+   "fedFunds": 5.98,
+   "yieldCurve": 0.4
+  },
+  {
+   "date": "2001-02",
+   "index": 155.95,
+   "raw": 2151.83,
+   "cape": 35.8,
+   "unemployment": 4.2,
+   "fedFunds": 5.49,
+   "yieldCurve": 0.44
+  },
+  {
+   "date": "2001-03",
+   "index": 133.37,
+   "raw": 1840.26,
+   "cape": 32.3,
+   "unemployment": 4.2,
+   "fedFunds": 5.31,
+   "yieldCurve": 0.54
+  },
+  {
+   "date": "2001-04",
+   "index": 153.37,
+   "raw": 2116.24,
+   "cape": 32.2,
+   "unemployment": 4.3,
+   "fedFunds": 4.8,
+   "yieldCurve": 0.91
+  },
+  {
+   "date": "2001-05",
+   "index": 152.95,
+   "raw": 2110.49,
+   "cape": 34.1,
+   "unemployment": 4.4,
+   "fedFunds": 4.21,
+   "yieldCurve": 1.13
+  },
+  {
+   "date": "2001-06",
+   "index": 156.58,
+   "raw": 2160.54,
+   "cape": 33.1,
+   "unemployment": 4.3,
+   "fedFunds": 3.97,
+   "yieldCurve": 1.2
+  },
+  {
+   "date": "2001-07",
+   "index": 146.91,
+   "raw": 2027.13,
+   "cape": 32.2,
+   "unemployment": 4.5,
+   "fedFunds": 3.77,
+   "yieldCurve": 1.2
+  },
+  {
+   "date": "2001-08",
+   "index": 130.84,
+   "raw": 1805.43,
+   "cape": 31.4,
+   "unemployment": 4.6,
+   "fedFunds": 3.65,
+   "yieldCurve": 1.21
+  },
+  {
+   "date": "2001-09",
+   "index": 108.62,
+   "raw": 1498.8,
+   "cape": 27.7,
+   "unemployment": 4.9,
+   "fedFunds": 3.07,
+   "yieldCurve": 1.61
+  },
+  {
+   "date": "2001-10",
+   "index": 122.49,
+   "raw": 1690.2,
+   "cape": 28.6,
+   "unemployment": 5.0,
+   "fedFunds": 2.49,
+   "yieldCurve": 1.84
+  },
+  {
+   "date": "2001-11",
+   "index": 139.91,
+   "raw": 1930.58,
+   "cape": 30.0,
+   "unemployment": 5.3,
+   "fedFunds": 2.09,
+   "yieldCurve": 1.87
+  },
+  {
+   "date": "2001-12",
+   "index": 141.35,
+   "raw": 1950.4,
+   "cape": 30.5,
+   "unemployment": 5.5,
+   "fedFunds": 1.82,
+   "yieldCurve": 1.98
+  },
+  {
+   "date": "2002-01",
+   "index": 140.16,
+   "raw": 1934.03,
+   "cape": 30.3,
+   "unemployment": 5.7,
+   "fedFunds": 1.73,
+   "yieldCurve": 2.01
+  },
+  {
+   "date": "2002-02",
+   "index": 125.48,
+   "raw": 1731.49,
+   "cape": 29.1,
+   "unemployment": 5.7,
+   "fedFunds": 1.74,
+   "yieldCurve": 1.9
+  },
+  {
+   "date": "2002-03",
+   "index": 133.74,
+   "raw": 1845.35,
+   "cape": 30.3,
+   "unemployment": 5.7,
+   "fedFunds": 1.73,
+   "yieldCurve": 1.73
+  },
+  {
+   "date": "2002-04",
+   "index": 122.35,
+   "raw": 1688.23,
+   "cape": 29.0,
+   "unemployment": 5.7,
+   "fedFunds": 1.75,
+   "yieldCurve": 1.79
+  },
+  {
+   "date": "2002-05",
+   "index": 117.09,
+   "raw": 1615.73,
+   "cape": 28.1,
+   "unemployment": 5.9,
+   "fedFunds": 1.75,
+   "yieldCurve": 1.9
+  },
+  {
+   "date": "2002-06",
+   "index": 106.04,
+   "raw": 1463.21,
+   "cape": 26.4,
+   "unemployment": 5.8,
+   "fedFunds": 1.75,
+   "yieldCurve": 1.93
+  },
+  {
+   "date": "2002-07",
+   "index": 96.26,
+   "raw": 1328.26,
+   "cape": 23.5,
+   "unemployment": 5.8,
+   "fedFunds": 1.73,
+   "yieldCurve": 2.1
+  },
+  {
+   "date": "2002-08",
+   "index": 95.29,
+   "raw": 1314.85,
+   "cape": 23.6,
+   "unemployment": 5.8,
+   "fedFunds": 1.74,
+   "yieldCurve": 2.12
+  },
+  {
+   "date": "2002-09",
+   "index": 84.94,
+   "raw": 1172.06,
+   "cape": 22.4,
+   "unemployment": 5.7,
+   "fedFunds": 1.75,
+   "yieldCurve": 1.87
+  },
+  {
+   "date": "2002-10",
+   "index": 96.37,
+   "raw": 1329.75,
+   "cape": 22.0,
+   "unemployment": 5.7,
+   "fedFunds": 1.75,
+   "yieldCurve": 2.03
+  },
+  {
+   "date": "2002-11",
+   "index": 107.17,
+   "raw": 1478.78,
+   "cape": 23.4,
+   "unemployment": 5.7,
+   "fedFunds": 1.34,
+   "yieldCurve": 2.13
+  },
+  {
+   "date": "2002-12",
+   "index": 96.79,
+   "raw": 1335.51,
+   "cape": 23.1,
+   "unemployment": 5.9,
+   "fedFunds": 1.24,
+   "yieldCurve": 2.2
+  },
+  {
+   "date": "2003-01",
+   "index": 96.46,
+   "raw": 1331.04,
+   "cape": 22.9,
+   "unemployment": 6.0,
+   "fedFunds": 1.24,
+   "yieldCurve": 2.31
+  },
+  {
+   "date": "2003-02",
+   "index": 97.31,
+   "raw": 1342.73,
+   "cape": 21.2,
+   "unemployment": 5.8,
+   "fedFunds": 1.26,
+   "yieldCurve": 2.27
+  },
+  {
+   "date": "2003-03",
+   "index": 98.34,
+   "raw": 1357.0,
+   "cape": 21.3,
+   "unemployment": 5.9,
+   "fedFunds": 1.25,
+   "yieldCurve": 2.23
+  },
+  {
+   "date": "2003-04",
+   "index": 106.73,
+   "raw": 1472.69,
+   "cape": 22.4,
+   "unemployment": 5.9,
+   "fedFunds": 1.26,
+   "yieldCurve": 2.34
+  },
+  {
+   "date": "2003-05",
+   "index": 115.95,
+   "raw": 1599.92,
+   "cape": 23.6,
+   "unemployment": 6.0,
+   "fedFunds": 1.26,
+   "yieldCurve": 2.15
+  },
+  {
+   "date": "2003-06",
+   "index": 117.51,
+   "raw": 1621.44,
+   "cape": 24.8,
+   "unemployment": 6.1,
+   "fedFunds": 1.22,
+   "yieldCurve": 2.11
+  },
+  {
+   "date": "2003-07",
+   "index": 127.36,
+   "raw": 1757.37,
+   "cape": 24.9,
+   "unemployment": 6.3,
+   "fedFunds": 1.01,
+   "yieldCurve": 2.5
+  },
+  {
+   "date": "2003-08",
+   "index": 131.45,
+   "raw": 1813.82,
+   "cape": 24.6,
+   "unemployment": 6.2,
+   "fedFunds": 1.03,
+   "yieldCurve": 2.58
+  },
+  {
+   "date": "2003-09",
+   "index": 130.65,
+   "raw": 1802.71,
+   "cape": 25.2,
+   "unemployment": 6.1,
+   "fedFunds": 1.01,
+   "yieldCurve": 2.57
+  },
+  {
+   "date": "2003-10",
+   "index": 140.39,
+   "raw": 1937.14,
+   "cape": 25.7,
+   "unemployment": 6.1,
+   "fedFunds": 1.01,
+   "yieldCurve": 2.54
+  },
+  {
+   "date": "2003-11",
+   "index": 142.27,
+   "raw": 1963.06,
+   "cape": 25.9,
+   "unemployment": 6.0,
+   "fedFunds": 1.0,
+   "yieldCurve": 2.37
+  },
+  {
+   "date": "2003-12",
+   "index": 144.7,
+   "raw": 1996.62,
+   "cape": 26.6,
+   "unemployment": 5.8,
+   "fedFunds": 0.98,
+   "yieldCurve": 2.36
+  },
+  {
+   "date": "2004-01",
+   "index": 149.69,
+   "raw": 2065.44,
+   "cape": 27.7,
+   "unemployment": 5.7,
+   "fedFunds": 1.0,
+   "yieldCurve": 2.39
+  },
+  {
+   "date": "2004-02",
+   "index": 146.31,
+   "raw": 2018.83,
+   "cape": 27.6,
+   "unemployment": 5.7,
+   "fedFunds": 1.01,
+   "yieldCurve": 2.34
+  },
+  {
+   "date": "2004-03",
+   "index": 145.23,
+   "raw": 2004.0,
+   "cape": 26.9,
+   "unemployment": 5.6,
+   "fedFunds": 1.0,
+   "yieldCurve": 2.25
+  },
+  {
+   "date": "2004-04",
+   "index": 139.1,
+   "raw": 1919.39,
+   "cape": 26.9,
+   "unemployment": 5.8,
+   "fedFunds": 1.0,
+   "yieldCurve": 2.28
+  },
+  {
+   "date": "2004-05",
+   "index": 144.28,
+   "raw": 1990.81,
+   "cape": 25.9,
+   "unemployment": 5.6,
+   "fedFunds": 1.0,
+   "yieldCurve": 2.18
+  },
+  {
+   "date": "2004-06",
+   "index": 148.98,
+   "raw": 2055.65,
+   "cape": 26.4,
+   "unemployment": 5.6,
+   "fedFunds": 1.03,
+   "yieldCurve": 1.97
+  },
+  {
+   "date": "2004-07",
+   "index": 137.43,
+   "raw": 1896.31,
+   "cape": 25.7,
+   "unemployment": 5.6,
+   "fedFunds": 1.26,
+   "yieldCurve": 1.86
+  },
+  {
+   "date": "2004-08",
+   "index": 133.21,
+   "raw": 1838.1,
+   "cape": 25.2,
+   "unemployment": 5.5,
+   "fedFunds": 1.43,
+   "yieldCurve": 1.77
+  },
+  {
+   "date": "2004-09",
+   "index": 137.47,
+   "raw": 1896.84,
+   "cape": 25.7,
+   "unemployment": 5.4,
+   "fedFunds": 1.61,
+   "yieldCurve": 1.6
+  },
+  {
+   "date": "2004-10",
+   "index": 143.13,
+   "raw": 1974.99,
+   "cape": 25.4,
+   "unemployment": 5.4,
+   "fedFunds": 1.76,
+   "yieldCurve": 1.51
+  },
+  {
+   "date": "2004-11",
+   "index": 151.96,
+   "raw": 2096.81,
+   "cape": 26.5,
+   "unemployment": 5.5,
+   "fedFunds": 1.93,
+   "yieldCurve": 1.34
+  },
+  {
+   "date": "2004-12",
+   "index": 157.66,
+   "raw": 2175.44,
+   "cape": 27.1,
+   "unemployment": 5.4,
+   "fedFunds": 2.16,
+   "yieldCurve": 1.22
+  }
+ ],
+ "covid": [
+  {
+   "date": "2018-01",
+   "index": 100.0,
+   "raw": 2823.81,
+   "cape": 33.3,
+   "unemployment": 4.1,
+   "fedFunds": 1.41,
+   "yieldCurve": 0.55
+  },
+  {
+   "date": "2018-02",
+   "index": 96.11,
+   "raw": 2713.83,
+   "cape": 32.0,
+   "unemployment": 4.0,
+   "fedFunds": 1.42,
+   "yieldCurve": 0.68
+  },
+  {
+   "date": "2018-03",
+   "index": 93.52,
+   "raw": 2640.87,
+   "cape": 31.8,
+   "unemployment": 4.1,
+   "fedFunds": 1.51,
+   "yieldCurve": 0.57
+  },
+  {
+   "date": "2018-04",
+   "index": 93.78,
+   "raw": 2648.05,
+   "cape": 31.0,
+   "unemployment": 4.0,
+   "fedFunds": 1.69,
+   "yieldCurve": 0.48
+  },
+  {
+   "date": "2018-05",
+   "index": 95.8,
+   "raw": 2705.27,
+   "cape": 31.2,
+   "unemployment": 4.0,
+   "fedFunds": 1.7,
+   "yieldCurve": 0.47
+  },
+  {
+   "date": "2018-06",
+   "index": 96.27,
+   "raw": 2718.37,
+   "cape": 31.6,
+   "unemployment": 3.8,
+   "fedFunds": 1.82,
+   "yieldCurve": 0.38
+  },
+  {
+   "date": "2018-07",
+   "index": 99.73,
+   "raw": 2816.29,
+   "cape": 31.9,
+   "unemployment": 4.0,
+   "fedFunds": 1.91,
+   "yieldCurve": 0.28
+  },
+  {
+   "date": "2018-08",
+   "index": 102.75,
+   "raw": 2901.52,
+   "cape": 32.4,
+   "unemployment": 3.8,
+   "fedFunds": 1.91,
+   "yieldCurve": 0.25
+  },
+  {
+   "date": "2018-09",
+   "index": 103.19,
+   "raw": 2913.98,
+   "cape": 32.6,
+   "unemployment": 3.8,
+   "fedFunds": 1.95,
+   "yieldCurve": 0.24
+  },
+  {
+   "date": "2018-10",
+   "index": 96.03,
+   "raw": 2711.74,
+   "cape": 31.0,
+   "unemployment": 3.7,
+   "fedFunds": 2.19,
+   "yieldCurve": 0.29
+  },
+  {
+   "date": "2018-11",
+   "index": 97.75,
+   "raw": 2760.17,
+   "cape": 30.2,
+   "unemployment": 3.8,
+   "fedFunds": 2.2,
+   "yieldCurve": 0.26
+  },
+  {
+   "date": "2018-12",
+   "index": 88.78,
+   "raw": 2506.85,
+   "cape": 28.3,
+   "unemployment": 3.8,
+   "fedFunds": 2.27,
+   "yieldCurve": 0.16
+  },
+  {
+   "date": "2019-01",
+   "index": 95.76,
+   "raw": 2704.1,
+   "cape": 28.4,
+   "unemployment": 3.9,
+   "fedFunds": 2.4,
+   "yieldCurve": 0.17
+  },
+  {
+   "date": "2019-02",
+   "index": 98.61,
+   "raw": 2784.49,
+   "cape": 29.5,
+   "unemployment": 4.0,
+   "fedFunds": 2.4,
+   "yieldCurve": 0.17
+  },
+  {
+   "date": "2019-03",
+   "index": 100.38,
+   "raw": 2834.4,
+   "cape": 29.6,
+   "unemployment": 3.8,
+   "fedFunds": 2.41,
+   "yieldCurve": 0.16
+  },
+  {
+   "date": "2019-04",
+   "index": 104.32,
+   "raw": 2945.83,
+   "cape": 30.1,
+   "unemployment": 3.8,
+   "fedFunds": 2.42,
+   "yieldCurve": 0.19
+  },
+  {
+   "date": "2019-05",
+   "index": 97.46,
+   "raw": 2752.06,
+   "cape": 29.2,
+   "unemployment": 3.7,
+   "fedFunds": 2.39,
+   "yieldCurve": 0.19
+  },
+  {
+   "date": "2019-06",
+   "index": 104.18,
+   "raw": 2941.76,
+   "cape": 29.3,
+   "unemployment": 3.6,
+   "fedFunds": 2.38,
+   "yieldCurve": 0.26
+  },
+  {
+   "date": "2019-07",
+   "index": 105.54,
+   "raw": 2980.38,
+   "cape": 30.0,
+   "unemployment": 3.6,
+   "fedFunds": 2.4,
+   "yieldCurve": 0.22
+  },
+  {
+   "date": "2019-08",
+   "index": 103.64,
+   "raw": 2926.46,
+   "cape": 28.7,
+   "unemployment": 3.7,
+   "fedFunds": 2.13,
+   "yieldCurve": 0.06
+  },
+  {
+   "date": "2019-09",
+   "index": 105.42,
+   "raw": 2976.74,
+   "cape": 29.2,
+   "unemployment": 3.6,
+   "fedFunds": 2.04,
+   "yieldCurve": 0.05
+  },
+  {
+   "date": "2019-10",
+   "index": 107.57,
+   "raw": 3037.56,
+   "cape": 28.8,
+   "unemployment": 3.5,
+   "fedFunds": 1.83,
+   "yieldCurve": 0.16
+  },
+  {
+   "date": "2019-11",
+   "index": 111.23,
+   "raw": 3140.98,
+   "cape": 29.8,
+   "unemployment": 3.6,
+   "fedFunds": 1.55,
+   "yieldCurve": 0.2
+  },
+  {
+   "date": "2019-12",
+   "index": 114.41,
+   "raw": 3230.78,
+   "cape": 30.3,
+   "unemployment": 3.6,
+   "fedFunds": 1.55,
+   "yieldCurve": 0.25
+  },
+  {
+   "date": "2020-01",
+   "index": 114.23,
+   "raw": 3225.52,
+   "cape": 31.0,
+   "unemployment": 3.6,
+   "fedFunds": 1.55,
+   "yieldCurve": 0.24
+  },
+  {
+   "date": "2020-02",
+   "index": 104.62,
+   "raw": 2954.22,
+   "cape": 30.7,
+   "unemployment": 3.6,
+   "fedFunds": 1.58,
+   "yieldCurve": 0.17
+  },
+  {
+   "date": "2020-03",
+   "index": 91.53,
+   "raw": 2584.59,
+   "cape": 24.8,
+   "unemployment": 3.5,
+   "fedFunds": 0.65,
+   "yieldCurve": 0.42
+  },
+  {
+   "date": "2020-04",
+   "index": 103.14,
+   "raw": 2912.43,
+   "cape": 25.9,
+   "unemployment": 4.4,
+   "fedFunds": 0.05,
+   "yieldCurve": 0.43
+  },
+  {
+   "date": "2020-05",
+   "index": 107.81,
+   "raw": 3044.31,
+   "cape": 27.3,
+   "unemployment": 14.8,
+   "fedFunds": 0.05,
+   "yieldCurve": 0.5
+  },
+  {
+   "date": "2020-06",
+   "index": 109.79,
+   "raw": 3100.29,
+   "cape": 28.8,
+   "unemployment": 13.2,
+   "fedFunds": 0.08,
+   "yieldCurve": 0.54
+  },
+  {
+   "date": "2020-07",
+   "index": 115.84,
+   "raw": 3271.12,
+   "cape": 29.6,
+   "unemployment": 11.0,
+   "fedFunds": 0.09,
+   "yieldCurve": 0.48
+  },
+  {
+   "date": "2020-08",
+   "index": 123.96,
+   "raw": 3500.31,
+   "cape": 31.2,
+   "unemployment": 10.2,
+   "fedFunds": 0.1,
+   "yieldCurve": 0.51
+  },
+  {
+   "date": "2020-09",
+   "index": 119.09,
+   "raw": 3363.0,
+   "cape": 30.8,
+   "unemployment": 8.4,
+   "fedFunds": 0.09,
+   "yieldCurve": 0.54
+  },
+  {
+   "date": "2020-10",
+   "index": 115.8,
+   "raw": 3269.96,
+   "cape": 31.3,
+   "unemployment": 7.8,
+   "fedFunds": 0.09,
+   "yieldCurve": 0.64
+  },
+  {
+   "date": "2020-11",
+   "index": 128.25,
+   "raw": 3621.63,
+   "cape": 32.5,
+   "unemployment": 6.9,
+   "fedFunds": 0.09,
+   "yieldCurve": 0.7
+  },
+  {
+   "date": "2020-12",
+   "index": 133.01,
+   "raw": 3756.07,
+   "cape": 33.8,
+   "unemployment": 6.7,
+   "fedFunds": 0.09,
+   "yieldCurve": 0.8
+  },
+  {
+   "date": "2021-01",
+   "index": 131.53,
+   "raw": 3714.24,
+   "cape": 34.5,
+   "unemployment": 6.7,
+   "fedFunds": 0.09,
+   "yieldCurve": 0.95
+  },
+  {
+   "date": "2021-02",
+   "index": 134.96,
+   "raw": 3811.15,
+   "cape": 35.1,
+   "unemployment": 6.4,
+   "fedFunds": 0.08,
+   "yieldCurve": 1.14
+  },
+  {
+   "date": "2021-03",
+   "index": 140.69,
+   "raw": 3972.89,
+   "cape": 35.0,
+   "unemployment": 6.2,
+   "fedFunds": 0.07,
+   "yieldCurve": 1.46
+  },
+  {
+   "date": "2021-04",
+   "index": 148.07,
+   "raw": 4181.17,
+   "cape": 36.7,
+   "unemployment": 6.1,
+   "fedFunds": 0.07,
+   "yieldCurve": 1.47
+  },
+  {
+   "date": "2021-05",
+   "index": 148.88,
+   "raw": 4204.11,
+   "cape": 36.5,
+   "unemployment": 6.1,
+   "fedFunds": 0.06,
+   "yieldCurve": 1.47
+  },
+  {
+   "date": "2021-06",
+   "index": 152.19,
+   "raw": 4297.5,
+   "cape": 36.7,
+   "unemployment": 5.8,
+   "fedFunds": 0.08,
+   "yieldCurve": 1.32
+  },
+  {
+   "date": "2021-07",
+   "index": 155.65,
+   "raw": 4395.26,
+   "cape": 37.4,
+   "unemployment": 5.9,
+   "fedFunds": 0.1,
+   "yieldCurve": 1.1
+  },
+  {
+   "date": "2021-08",
+   "index": 160.16,
+   "raw": 4522.68,
+   "cape": 38.0,
+   "unemployment": 5.4,
+   "fedFunds": 0.09,
+   "yieldCurve": 1.07
+  },
+  {
+   "date": "2021-09",
+   "index": 152.54,
+   "raw": 4307.54,
+   "cape": 37.6,
+   "unemployment": 5.1,
+   "fedFunds": 0.08,
+   "yieldCurve": 1.13
+  },
+  {
+   "date": "2021-10",
+   "index": 163.09,
+   "raw": 4605.38,
+   "cape": 37.2,
+   "unemployment": 4.7,
+   "fedFunds": 0.08,
+   "yieldCurve": 1.19
+  },
+  {
+   "date": "2021-11",
+   "index": 161.73,
+   "raw": 4567.0,
+   "cape": 38.6,
+   "unemployment": 4.5,
+   "fedFunds": 0.08,
+   "yieldCurve": 1.05
+  },
+  {
+   "date": "2021-12",
+   "index": 168.79,
+   "raw": 4766.18,
+   "cape": 38.3,
+   "unemployment": 4.1,
+   "fedFunds": 0.08,
+   "yieldCurve": 0.79
+  }
+ ]
+}
